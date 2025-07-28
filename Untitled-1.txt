@@ -1,0 +1,7 @@
+[
+    {
+        "type": "command",
+        "details": {
+            "key": "workbench.action.remote.close"
+        }
+    }
